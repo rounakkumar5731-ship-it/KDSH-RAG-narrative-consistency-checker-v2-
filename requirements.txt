@@ -1,0 +1,21 @@
+# Core Data Ingestion (Linux Only)
+pathway
+
+# Data Processing
+pandas
+ftfy
+numpy
+
+# LLM & API
+groq
+python-dotenv
+
+# RAG & Vector Store
+faiss-cpu
+sentence-transformers
+
+# LangChain Utilities (Loaders/Splitters)
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
