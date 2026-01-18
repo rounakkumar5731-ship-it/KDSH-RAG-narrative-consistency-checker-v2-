@@ -1,4 +1,4 @@
-```markdown
+
 # Narrative Consistency Checker (Track A: Agentic RAG)
 
 A Logic-Driven RAG system designed to verify character backstories against long-form novels (100k+ words) by detecting mutually exclusive timeline states.
@@ -90,4 +90,5 @@ MIT License
 
 ```
 
-```
+
+
