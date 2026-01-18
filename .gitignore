@@ -35,11 +35,7 @@ Thumbs.db
 .env
 env.local
 
-# Data and large binary stores (adjust if you want to include any)
-data/
-results.csv
-train.csv
-test.csv
+
 
 # Faiss index stores (large binary index files)
 faiss_store_*/
